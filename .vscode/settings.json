@@ -1,0 +1,7 @@
+{
+    "python.linting.enabled": false,
+    "emmet.excludeLanguages": [
+    
+        "markdown"
+    ]
+}
